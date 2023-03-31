@@ -288,7 +288,7 @@ export const Shell = ({ appNeedsUpdate, children, userPeerId }: ShellProps) => {
         <CssBaseline />
         <UpgradeDialog appNeedsUpdate={appNeedsUpdate} />
         <Box
-          className="Chitchatter"
+          className="Kuptm Chit Chat"
           sx={{
             height: '100vh',
             display: 'flex',

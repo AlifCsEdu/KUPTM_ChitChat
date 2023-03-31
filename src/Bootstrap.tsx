@@ -29,8 +29,8 @@ export interface BootstrapProps {
 
 function Bootstrap({
   persistedStorage: persistedStorageProp = localforage.createInstance({
-    name: 'chitchatter',
-    description: 'Persisted settings data for chitchatter',
+    name: 'Kuptm Chit Chat',
+    description: 'Persisted settings data for Kuptm Chit Chat',
   }),
   getUuid = uuid,
 }: BootstrapProps) {

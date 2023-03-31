@@ -151,7 +151,7 @@ export const Settings = ({ userId }: SettingsProps) => {
           </PeerNameDisplay>
         </strong>{' '}
         to a new, randomly-assigned name. It will also reset all of your saved
-        Chitchatter application preferences.
+        Kuptm Chit Chat application preferences.
       </Typography>
       <Button
         variant="outlined"
@@ -174,7 +174,7 @@ export const Settings = ({ userId }: SettingsProps) => {
           mb: 2,
         })}
       >
-        Chitchatter only stores user preferences and never message content of
+        Kuptm Chit Chat only stores user preferences and never message content of
         any kind. This preference data is only stored locally on your device and
         not a server.
       </Typography>
