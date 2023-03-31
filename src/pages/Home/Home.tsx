@@ -131,7 +131,7 @@ export function Home({ userId }: HomeProps) {
         }}
       >
         <MuiLink
-          href="https://github.com/jeremyckahn/chitchatter"
+          href="https://github.com/AlifCsEdu/KUPTM_ChitChat"
           target="_blank"
           sx={theme => ({
             color: theme.palette.text.primary,
