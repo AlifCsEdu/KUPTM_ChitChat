@@ -1,6 +1,6 @@
-# Chitchatter
+# KUPTM Chit Chat
 
-![Chitchatter logo](./public/logo/logo.svg)
+![KUPTM Chit Chat logo](./public/logo/logo.svg)
 
 ## Features
 
@@ -20,7 +20,7 @@
 ## Anti-features
 
 - Messages are never persisted to disk. When you leave a peer room, messages are cleared from memory and cannot be retrieved.
-- Chitchatter is an entirely client-side communication app. It uses public WebTorrent servers to establish peer connections and STUN/TURN relay servers when direct peer-to-peer connections cannot be established, but there is no Chitchatter API server.
+- KUPTM Chit Chat is an entirely client-side communication app. It uses public WebTorrent servers to establish peer connections and STUN/TURN relay servers when direct peer-to-peer connections cannot be established, but there is no KUPTM Chit Chat API server.
 - No analytics, tracking, or telemetry of any kind.
 - This is a community-driven and unfunded project that makes no money. The users come first and there is no corporate influence or financial interest involved.
 ## Use cases
