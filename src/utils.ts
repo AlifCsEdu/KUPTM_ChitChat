@@ -21,3 +21,4 @@ export const encodePassword = async (roomId: string, password: string) => {
   const bytes = new Uint8Array(digest)
   return window.btoa(String.fromCharCode(...bytes))
 }
+  
